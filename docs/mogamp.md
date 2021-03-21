@@ -15,7 +15,7 @@ There is a reason MogAmp and MogDoot are seperate programs instead of one progra
 
 Only one instance of MogAmp should be running, even if multiple computers are being used. Once MogAmp is running, start one window of MogDoot on every computer that is running a bard. Even if a computer is running several bards, they still only need one MogDoot window open.
 
-So, essentially, if you are "multiboxing" and running multiple bards on one computer, start one MogAmp window and one MogDoot window. If you are performing with a friend, or splititng the work between multiple computers, start MogAmp on one computer and one instance of MogDoot on every computer. 
+So, essentially, if you are "multiboxing" and running multiple bards on one computer, start one MogAmp window and one MogDoot window. If you are performing with a friend, or splitting the work between multiple computers, start MogAmp on one computer and one instance of MogDoot on every computer. 
 
 MogAmp should connect to MogDoot if they are both running on the same computer, on the same LAN network, connected to each other through the "MogCloud", or connected through a VPN that simulates a LAN network such as Hamachi or ZeroTier. 
 
